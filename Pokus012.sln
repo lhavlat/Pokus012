@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokus012", "Pokus012\Pokus012.csproj", "{90BA8128-BA0A-4B47-AE79-DF577D899AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90BA8128-BA0A-4B47-AE79-DF577D899AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BA8128-BA0A-4B47-AE79-DF577D899AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BA8128-BA0A-4B47-AE79-DF577D899AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BA8128-BA0A-4B47-AE79-DF577D899AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A62AF13-74B2-44BA-8014-55E952BA099B}
+	EndGlobalSection
+EndGlobal
